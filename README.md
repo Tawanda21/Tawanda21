@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Tawanda “Kiro” Mudonhi, a Computer Systems Engineering student passionate about backend development, cloud computing, and mobile apps. I work with Java, JavaScript, Kotlin, React/React Native, and SQL, and I enjoy building practical projects, a public transport navigation app. Always learning, always building.
+I’m Tawanda Mudonhi, a Computer Systems Engineering student passionate about backend development, cloud computing, and mobile apps. I work with Java, JavaScript, Kotlin, React/React Native, and SQL, and I enjoy building practical projects, a public transport navigation app. Always learning, always building.
 
 
 ## 🌐 Socials:
