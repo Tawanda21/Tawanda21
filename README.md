@@ -1,5 +1,5 @@
 # About Me:
-I'm Tawanda Mudonhi, a Computer Systems Engineering student passionate about **AI/ML engineering**. I specialize in **Python** for building intelligent, data-driven applications, with hands-on experience in **Kaggle competitions**, **Postman API** development, and cloud databases (**PostgreSQL, MongoDB, Firebase**).
+I'm Tawanda Mudonhi, an **AI/ML engineer**. I specialize in **Python** for building intelligent, data-driven applications, with hands-on experience in **Kaggle competitions**, **Postman API** development, and cloud databases (**PostgreSQL, MongoDB, Firebase**).
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikirosoft) 
