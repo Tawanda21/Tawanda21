@@ -1,6 +1,6 @@
 # About Me
 
-I'm Tawanda Mudonhi, an AI/ML Engineer with a passion for building intelligent, data-driven systems. I work across the full stack of machine learning—from model development and training to deployment and scalability. My toolkit is built around Python, and I have strong hands-on experience with FastAPI, Docker, PyTorch, TensorFlow, Keras, and cloud-native databases including PostgreSQL, MongoDB, and Firebase.
+I'm Tawanda Mudonhi, an AI/ML Engineer with a passion for building intelligent, data-driven systems. I work across the full stack of machine learning from model development and training to deployment and scalability. My toolkit is built around Python, and I have strong hands-on experience with FastAPI, Docker, PyTorch, TensorFlow, Keras, and cloud-native databases including PostgreSQL, MongoDB, and Firebase.
 
 I believe in writing clean, maintainable code and designing systems that are not only functional but also resilient and production-ready.
 
