@@ -1,21 +1,59 @@
-# About Me:
-I'm Tawanda Mudonhi, an **AI/ML engineer**. I specialize in **Python** for building intelligent, data-driven applications, with hands-on experience in **FAST API** development, Docker, PyTorch, Tensorflow, Keras and cloud databases (**PostgreSQL, MongoDB, Firebase**).
+# About Me
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikirosoft) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawanda-mudonhi-5005b5203/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirokiro66@gmail.com)
+I'm Tawanda Mudonhi, an AI/ML Engineer with a passion for building intelligent, data-driven systems. I work across the full stack of machine learning—from model development and training to deployment and scalability. My toolkit is built around Python, and I have strong hands-on experience with FastAPI, Docker, PyTorch, TensorFlow, Keras, and cloud-native databases including PostgreSQL, MongoDB, and Firebase.
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+I believe in writing clean, maintainable code and designing systems that are not only functional but also resilient and production-ready.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mikirosoft&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## What I Do
+
+- Machine Learning & AI – PyTorch, TensorFlow, Keras, Scikit-learn
+- Backend Development – FastAPI, REST APIs, WebSockets
+- Data Engineering – Pandas, NumPy, ETL pipelines, feature stores
+- DevOps & Cloud – Docker, AWS, CI/CD, container orchestration
+- Databases – PostgreSQL, MongoDB, Firebase (realtime + NoSQL)
+- Version Control – Git, GitHub, collaborative workflows
+
+---
+
+## Currently Exploring
+
+- Large language model fine-tuning and RAG architectures
+- MLOps practices including MLflow and Kubeflow
+- Real-time inference pipelines with Kafka and FastAPI
+
+---
+
+## Connect With Me
+
+- Instagram – behind-the-scenes and tech snippets
+- LinkedIn – professional journey and insights
+- Mailing List – monthly AI/ML deep dives
+- Email – direct line for collaboration or questions
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+![Tawanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+"The best way to predict the future is to build it." — Alan Kay
