@@ -50,10 +50,4 @@ I believe in writing clean, maintainable code and designing systems that are not
 
 ---
 
-## GitHub Stats
-
-![Tawanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 "The best way to predict the future is to build it." — Alan Kay
